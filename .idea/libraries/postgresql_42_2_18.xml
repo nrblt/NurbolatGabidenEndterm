@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql-42.2.18">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Assignment 3/src/out/production/Assignment 3/lib/postgresql-42.2.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
